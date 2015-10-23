@@ -1,2 +1,2 @@
 # JAVAEE
-Projekt I
+Projekt I Java JDBC
